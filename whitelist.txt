@@ -988,3 +988,5 @@ zomato.com
 zomato.com.edgekey.net
 zoom.us
 click.pstmrk.it
+api.hubapi.com
+app.hubspot.com
