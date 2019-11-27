@@ -990,3 +990,4 @@ zoom.us
 click.pstmrk.it
 api.hubapi.com
 app.hubspot.com
+c.apple.com
