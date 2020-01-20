@@ -1,12 +1,10 @@
 
-0.client-channel.google.com
 1.bp.blogspot.com
 1hosts.cf
 2-01-3cf7-000c.cdx.cedexis.net
 2.android.pool.ntp.org
 4.bp.blogspot.com
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
-9to5google.com
 a-msedge.net
 a.trellocdn.com
 abebooks.com
@@ -16,7 +14,6 @@ abuse.ch
 access.redhat.com.edgekey.net
 account.microsoft.com.edgekey.net
 accounts.elephantjournal.com
-accounts.google.com
 accuweather.com
 actionnetwork.org
 activation.sls.microsoft.com
@@ -27,7 +24,6 @@ addons.prestashop.com
 airtel.in
 ajax.aspnetcdn.com
 ajax.cloudflare.com
-ajax.googleapis.com
 aka.ms
 akamaihd.net
 akamaitechnologies.com
@@ -36,7 +32,6 @@ algolia.com
 alluremedia.com
 amazon.co.uk
 amazon.in
-android.clients.google.com
 angel.co
 answers.microsoft.com
 aolcdn.com
@@ -51,17 +46,13 @@ api.peer5.com
 api.termius.com
 api.trello.com
 api.unsplash.com
-apis.google.com
 apis.mail.yahoo.com
 app-api.ted.com
 app.convertkit.com
-appengine.google.com
 apple.com
 appleid.apple.com
 appleid.cdn-apple.com
 apps.skype.com
-appsbackup-pa.clients6.google.com
-appsbackup-pa.googleapis.com
 appsumo.com
 askvg.com
 asset.wsj.net
@@ -75,7 +66,6 @@ assets.zendesk.com
 assetsuat2.tataunistore.com.edgekey.net
 au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
-auditrecording-pa.googleapis.com
 auth.gfx.ms
 auto.au.download.windowsupdate.com.c.footprint.net
 ax.phobos.apple.com.edgesuite.net
@@ -106,7 +96,6 @@ blog.sessionstack.com
 blog.techrepublic.com
 blogs.techrepublic.com
 boards.greenhouse.io
-books.google.com
 brands.medium.com
 bt.com
 bwp.techrepublic.com
@@ -115,7 +104,6 @@ c.s-microsoft.com
 c.trello.com
 c0.wp.com
 c1.microsoft.com
-calendar.google.com
 ccleaner.com
 cd6.digitaltrends.com
 cdn-audio-1.medium.com
@@ -167,15 +155,10 @@ cds.j3z9t3p6.hwcdn.net
 cdx.cedexis.net
 cfvod.kaltura.com
 channel9.msdn.com
-chart.googleapis.com
 chat.cdn.whatsapp.net
 chocolatey.org
 choices.truste.com
-chrome.google.com
 chromestatus.com
-ci3.googleusercontent.com
-ci4.googleusercontent.com
-ci5.googleusercontent.com
 clc.stackoverflow.com
 client-s.gateway.messenger.live.com
 client.crisp.chat
@@ -183,14 +166,6 @@ client.hip.live.com
 client.reactrjs.com
 client.relay.crisp.chat
 clientconfig.passport.net
-clients.l.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-cloudconfig.googleapis.com
 cloudflare.com
 cms.techrepublic.com
 cnet2.cbsistatic.com
@@ -202,7 +177,6 @@ codepen.io
 collateral.medium.com
 compass-ssl.microsoft.com.edgekey.net
 completion.amazon.co.uk
-connect.googleforwork.com
 connectivitycheck.gstatic.com
 consent.truste.com
 content-icc.pulselive.com
@@ -211,10 +185,8 @@ corp.kaltura.com
 cp701-prod.do.dsp.mp.microsoft.com.edgekey.net
 cricketapi-icc.pulselive.com
 crunchbase.com
-cryptauthenrollment.googleapis.com
 cs22.wpc.v0cdn.net
 cs9.wac.phicdn.net
-cse.google.com
 csi.gstatic.com
 csp.int-x3.letsencrypt.org.edgesuite.net
 csp.medium.com
@@ -228,7 +200,6 @@ dbs.com
 definitionupdates.microsoft.com
 detectportal.firefox.com
 developer.android.com
-developers.google.com
 developers.medium.com
 digg.com
 digitaltrends.com
@@ -238,14 +209,12 @@ dl.dropbox.com
 dl.dropboxusercontent.com
 dmd.metaservices.microsoft.com
 dns.msftncsi.com
-docs.google.com
 docs.microsoft.com-c.edgekey.net
 doctor.ndtv.com
 dominos.co.in
 download.microsoft.com
 download.windowsupdate.com
 downloads.techrepublic.com
-drive.google.com
 drop.ndtv.com.edgekey.net
 dw.techrepublic.com
 e1.whatsapp.net
@@ -289,13 +258,10 @@ example.com
 f.kinja-static.com
 faq.whatsapp.com
 fast.fonts.net
-fcm-stream.googleapis.com
-fcm.googleapis.com
 fe2.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 fe3.update.microsoft.com
-feedburner.google.com
 feedly.com
 feodotracker.abuse.ch
 fg.download.windowsupdate.com.c.footprint.net
@@ -303,12 +269,9 @@ files.brightcove.com
 files.overclock.net
 filters.adtidy.org
 financialexpress.com
-firebasestorage.googleapis.com
-firestore.googleapis.com
 flipboard.com
 flipkart.com
 fls-na.amazon.com
-fonts.googleapis.com
 fonts.gstatic.com
 forms.convertkit.com
 fossbytes.com
@@ -320,8 +283,6 @@ g.co
 g.download.windowsupdate.com.c.footprint.net
 g.live.com
 g.whatsapp.net
-gcm-http.googleapis.com
-gcm.googleapis.com
 getpocket.com
 ghacks.net
 giphy.com
@@ -338,13 +299,8 @@ godaddy.com
 gone
 goo.gl
 goodreads.com
-google.com
-googleapis.com
-googleapis.l.google.com
-googlehosted.l.googleusercontent.com
 graph.whatsapp.net
 gravatar.com
-groups.google.com
 gstatic.com
 guce.yahoo.com
 gwapi.zee5.com-v2.edgekey.net
@@ -377,8 +333,6 @@ i1195.photobucket.com
 icloud.cdn-apple.com
 icloud.com
 icq.com
-id.google.co.in
-id.google.com
 image.crisp.chat
 image.elephantjournal.com
 image.ibb.co
@@ -386,7 +340,6 @@ images.dmca.com
 images.financialexpress.com.edgekey.net
 images.theconversation.com
 images.unsplash.com
-imasdk.googleapis.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 img.brightcove.com
@@ -422,8 +375,6 @@ kinja.com
 kv701-prod.do.dsp.mp.microsoft.com.edgekey.net
 learn.elephantjournal.com
 legal.medium.com
-lh4.googleusercontent.com
-lh6.googleusercontent.com
 li.techrepublic.com
 licensedpackages.chocolatey.org
 licensing.mp.microsoft.com
@@ -447,16 +398,12 @@ m.gizmodo.com
 m.hotmail.com
 m.techrepublic.com
 ma.techrepublic.com
-mail-attachment.googleusercontent.com
 mail.yahoo.com
 mail01.tinyletterapp.com
 malwareurls.joxeankoret.com
-maps.google.com
-maps.googleapis.com
 maps.windows.com
 maxcdn.bootstrapcdn.com
 mboxedge22.tt.omtrdc.net
-mclients.googleapis.com
 media-ams3-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
@@ -556,7 +503,6 @@ mmi651.whatsapp.net
 mmi701.whatsapp.net
 mmi731.whatsapp.net
 mms.whatsapp.net
-mobilenetworkscoring-pa.googleapis.com
 movies.ndtv.com
 mscomajax.vo.msecnd.net
 msedge.net
@@ -578,7 +524,6 @@ nexus.ensighten.com
 nls.techrepublic.com
 no-cache.hubspot.com
 noteworthy.medium.com
-notifications.google.com
 npmjs.com
 ns1.dropbox.com
 ns2.dropbox.com
@@ -592,7 +537,6 @@ office.com
 office.net
 office365.com
 officeclient.microsoft.com
-ogs.google.com
 ola.com
 olx.in
 oms.symantec.com
@@ -614,14 +558,9 @@ paytm.com
 pgi.billdesk.com
 pgl.yoyo.org
 phishing.mailscanner.info
-photos.googleapis.com
-play.google.com
-play.googleapis.com
-playbooks-pa.googleapis.com
 players.brightcove.com
 players.brightcove.net
 pluralsight.com
-plus.google.com
 pmdssl.flixkart.com.edgekey.net
 pps.whatsapp.net
 pricelist.skype.com
@@ -641,7 +580,6 @@ raw.githubusercontent.com
 rawgit.com
 reddestdream.github.io
 redirector.gvt1.com
-reminders-pa.googleapis.com
 res.cloudinary.com
 rg3.github.io
 rt.com
@@ -662,14 +600,9 @@ s3-us-west-2.amazonaws.com
 s3.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ap-south-1.amazonaws.com
-safebrowsing.google.com
-safebrowsing.googleapis.com
 samsung.com
-sb-ssl.google.com
 sbi.co.in
 sbi.com
-script.google.com
-script.googleapis.com
 seal.verisign.com
 secure-media1.hotstarext.com
 secure.aadcdn.microsoftonline-p.com
@@ -677,8 +610,6 @@ secure.avangate.com
 secure.gravatar.com
 secure.meetup.com
 secure.techrepublic.com
-securetoken.googleapis.com
-selenium-release.storage.googleapis.com
 serverfault.com
 service.weather.microsoft.com
 services.addons.mozilla.org
@@ -686,14 +617,11 @@ services.medium.com
 settings.crisp.chat
 setup.airtelbroadband.in
 sharepoint.com
-sheets.googleapis.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 sitepoint.com
-sites.google.com
 skype.com
 slack.com
 sls.update.microsoft.com
-smartlock.google.com
 smashingmagazine.com
 smokingwheels.github.io
 smtp.mail.yahoo.com
@@ -703,7 +631,6 @@ space.com
 spaceflightnow.com
 spclient.wg.spotify.com
 spotify.com
-spreadsheets.google.com
 ssl.bblck.me
 ssl.gstatic.com
 ssl.p.jwpcdn.com
@@ -722,7 +649,6 @@ static.wired.com
 static.wixstatic.com
 static1.squarespace.com
 static2cdn.hubspot.com
-storage.googleapis.com
 storage.live.com
 store-images.microsoft.com
 store-images.s-microsoft.com
@@ -754,7 +680,6 @@ toptenreviews.com
 toreedgefd.dsx.mp.microsoft.com
 tr4.cbsistatic.com
 trak.in
-translate.google.com
 triplebyte.com
 truste.com
 ui.skype.com
@@ -869,8 +794,6 @@ www.gizmodo.com
 www.glyph.medium.com
 www.go.microsoft.com
 www.goodreads.com
-www.google.com
-www.googleapis.com
 www.gstatic.com
 www.help.medium.com
 www.home.bt.com
@@ -921,7 +844,6 @@ www.olx.in
 www.package.chocolatey.org
 www.packages.chocolatey.org
 www.paperoak.com
-www.play.googleapis.com
 www.pluralsight.com
 www.preferences.truste.com
 www.publishers.medium.co
@@ -943,7 +865,6 @@ www.spotify.com
 www.squidblacklist.org
 www.statebankrewardz.com
 www.static.medium.com
-www.storage.googleapis.com
 www.tatacliq.com
 www.tatacliq.com.edgekey.net
 www.techradar.com
@@ -973,7 +894,6 @@ yahoo.com
 youtu.be
 youtube-dl.org
 youtube-nocookie.com
-youtube-ui.l.google.com
 youtube.com
 yt3.ggpht.com
 zapier.com
