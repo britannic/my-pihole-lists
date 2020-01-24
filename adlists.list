@@ -7,5 +7,5 @@ https://hosts-file.net/ad_servers.txt
 https://dbl.oisd.nl/
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 #https://raw.githubusercontent.com/outapzaza/blocklist/master/regex.txt
-#https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt
-#https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
+https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt
+https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
